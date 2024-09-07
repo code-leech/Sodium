@@ -12,8 +12,6 @@ self.__uv$config = {
      */
     bare: [
         "/bare1/",
-        "/bare2/",
-        "/bare3/",
         // Using a backend? Use this instead of Tomp.app:
         // "/bare1/",
         // "/bare2/",
