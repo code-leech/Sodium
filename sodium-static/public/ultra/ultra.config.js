@@ -11,7 +11,7 @@ self.__uv$config = {
      * @type {string}
      */
     bare: [
-        "/bare1/",
+        "https://r8gjg2-8000.csb.app/bare/",
         // Using a backend? Use this instead of Tomp.app:
         // "/bare1/",
         // "/bare2/",
